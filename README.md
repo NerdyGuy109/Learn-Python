@@ -1,24 +1,37 @@
 # Learn-Python
 
-Boolean (true, false)
+What is Python?
+--- 
 
-Conditionals (if, elif, else)
+Boolean 
+--- (true, false)
 
-Numbers (integers, floats, double)
+Conditionals 
+--- (if, elif, else)
 
-Strings "characters, words, paragraphs"
+Numbers 
+--- (integers, floats, double)
 
-Lists [mutable array]
+Strings 
+--- "characters, words, paragraphs"
 
-Tuples (immutable array)
+Lists 
+--- [mutable array]
 
-Dictionary {key: value}
+Tuples 
+--- (immutable array)
 
-Loops (for-loop, while-loop, do-while-loop)
+Dictionary 
+--- {key: value}
 
-Functions
+Loops 
+--- (for-loop, while-loop, do-while-loop)
 
-Classes (uses object oriented programming)
+Functions 
+--- 
+
+Classes 
+--- (uses object oriented programming)
 
 
 
