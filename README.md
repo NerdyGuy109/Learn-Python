@@ -28,10 +28,10 @@ Loops
 --- (for-loop, while-loop, do-while-loop)
 
 Functions
---- 
+--- (def, lambda)
 
 Classes 
---- (uses object oriented programming)
+--- (object oriented programming, inheritance, polymorphism, abstraction)
 
 
 
