@@ -1,8 +1,5 @@
 # Learn-Python
 
-What is Python?
---- 
-
 Boolean 
 --- (true, false)
 
