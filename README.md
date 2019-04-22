@@ -31,7 +31,8 @@ Functions
 --- (def, lambda)
 
 Classes 
---- (object oriented programming, inheritance, polymorphism, abstraction)
+--- (object oriented programming)
+--- (encapsulation, inheritance, polymorphism, abstraction)
 
 
 
